@@ -1,6 +1,7 @@
 # Algorithmic Trading Starter Project
 
 Lightweight Python starter for researching and backtesting simple trading ideas.
+Algorithmic trading from the land of the crisis.
 
 ## What is included
 - Git-ready project structure
